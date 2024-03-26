@@ -1,0 +1,4 @@
+name = "pages_blog"
+kv_namespaces = [
+    { binding = "pages_kv", id = "d4a5fc7365ee4106af010c313e4c1871" }
+]
